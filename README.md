@@ -1,3 +1,3 @@
 # Stellar-Crash
 
-The final code will be uploaded on or before 9th november 2025.
+The deployment will be done on or before 15th november 2025.

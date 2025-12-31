@@ -1,3 +1,3 @@
 # Stellar-Crash
 
-The game will be deployed on or before December 9th, 2025.
+The game will be deployed on or before January 11, 2026.
